@@ -15,3 +15,6 @@ ksp.nozawatec.com:8800
 
 #Next Spaceflight Server
 ksp-na.styxnetworks.co.uk:2183
+
+141.8.55.107:8800
+141.8.55.107:8900
